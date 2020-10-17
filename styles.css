@@ -1,0 +1,21 @@
+/*
+ * styles.css
+ */
+
+/*
+ * Set default font family to sans-serif.
+ */
+
+html {
+    font-family: sans-serif;
+}
+
+/*
+ * Base structure
+ */
+
+body {
+    padding-top: 2rem;
+}
+
+/* EOF */
